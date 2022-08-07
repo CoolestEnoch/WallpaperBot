@@ -65,6 +65,12 @@ object ReleaseNotesUtil {
 							"(需更新手机系统至Android 12或更高版本)"
 				)
 			)
+			add(
+				Version(
+					2.61,
+					"[修复]FydeOS 14.2(83)上保存图片失败的问题"
+				)
+			)
 		}
 		Collections.reverse(noteList)
 	}
