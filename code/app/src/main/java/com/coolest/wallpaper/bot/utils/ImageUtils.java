@@ -3,6 +3,7 @@ package com.coolest.wallpaper.bot.utils;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Handler;
+import android.os.Looper;
 import android.util.Log;
 import android.view.View;
 
@@ -128,11 +129,16 @@ public class ImageUtils {
 	 *
 	 * @param folderPath
 	 */
-	public static void createFolderIfNotExist(String folderPath) {
+	public static void createFolderIfNotExist(String folderPath) throws Exception {
 		File file = new File(folderPath);
-		if (!file.exists() && !file.isDirectory()) {
-			file.mkdir();
+		File parent = new File(folderPath.substring(0, folderPath.lastIndexOf('/')));
+		if(!parent.exists()){
+			createFolderIfNotExist(parent.toString());
 		}
+		file.mkdir();
+		/*if (!file.exists() && !file.isDirectory()) {
+			file.mkdir();
+		}*/
 	}
 
 	/**
