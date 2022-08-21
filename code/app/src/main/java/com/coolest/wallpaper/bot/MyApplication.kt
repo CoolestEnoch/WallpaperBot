@@ -10,6 +10,7 @@ class MyApplication :Application(){
 		var dailyBingWallpaperBitmap: Bitmap? = null
 		var currentImageBitMap: Bitmap? = null
 		var currentImageFileName = ""
+		var currentImageURL = ""
 		var currentImageUri: Uri? = null
 		var alreadySaved = false
 		var firstStartUp = false
