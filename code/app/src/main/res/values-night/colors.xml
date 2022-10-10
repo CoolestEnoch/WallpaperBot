@@ -27,4 +27,7 @@
     <color name="icon_bg">@color/light_blue</color>
     <color name="stroke_color">#00aaaaaa</color>
     <color name="grey_bg">@color/black_icon</color>
+
+    <color name="light_bg">@color/black</color>
+
 </resources>
