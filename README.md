@@ -9,7 +9,7 @@
 > 一个壁纸APP,可以帮你从特定API上下载图片并设置壁纸，也可分享哦
 > An APP that helps you download photo from specific API and set as wallpaper and share it.
 
-# 支持哪些功能? / Features?
+# 支持哪些功能? / Features
 - [x] 保存图片 / Save pictures to gallery
 - [x] 双指缩放图片 / Zoom picture via gesture
 - [x] 设置主屏/锁屏壁纸 / Set pictures as wallpaper for home screen/lock screen
