@@ -1,5 +1,4 @@
 # 壁纸Bot / WallpaperBot
-[![Motto](https://readme-typing-svg.herokuapp.com/?lines=壁纸Bot\ \/\ \(Wallpaper Bot&center=true&size=27)](https://github.com/CoolestEnoch/)
 
 [下载](https://github.com/CoolestEnoch/WallpaperBot/releases/latest)
 
