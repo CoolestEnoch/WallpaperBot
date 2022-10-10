@@ -6,7 +6,7 @@
 		<item name="colorPrimaryVariant">@color/material_dynamic_primary70</item>
 		<item name="colorOnPrimary">@color/material_dynamic_tertiary95</item>
 		<!-- Secondary brand color. -->
-		<item name="colorSecondary">@color/material_dynamic_secondary20</item>
+		<item name="colorSecondary">@color/light_bg</item>
 		<item name="colorSecondaryVariant">@color/material_dynamic_secondary70</item>
 		<item name="colorOnSecondary">@color/material_dynamic_tertiary0</item>
 		<!-- Status bar color. -->
