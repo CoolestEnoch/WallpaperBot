@@ -6,6 +6,8 @@
 
 # 这是个啥？/ What's this?
 > 一个壁纸APP,可以帮你从特定API上下载图片并设置壁纸，也可分享哦
+
+
 > An APP that helps you download photo from specific API and set as wallpaper and share it.
 
 # 支持哪些功能? / Features
