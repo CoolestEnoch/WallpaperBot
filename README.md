@@ -5,10 +5,8 @@
 [![Motto](https://readme-typing-svg.herokuapp.com/?lines=今天你躺平了吗\(bushi&center=true&size=27)](https://github.com/CoolestEnoch/)
 
 # 这是个啥？/ What's this?
-> 一个壁纸APP,可以帮你从特定API上下载图片并设置壁纸，也可分享哦
-
-
-> An APP that helps you download photo from specific API and set as wallpaper and share it.
+> 一个壁纸APP，可以帮你从特定API上下载图片并设置或分享壁纸<br>
+> A wallpaper app that helps you download images from specific APIs and set or share wallpapers.
 
 # 支持哪些功能? / Features
 - [x] 保存图片 / Save pictures to gallery
