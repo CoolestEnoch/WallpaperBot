@@ -19,7 +19,7 @@
 - [ ] 图片浏览历史记录 / Picture history
 - [ ] ??? / IDK(lol)
 
-# 用到的开源项目 / Contributes
+# 用到的开源项目 / Contributions
 ### 手势ImageView / Imageview with gestures
 [PhotoView](https://github.com/Baseflow/PhotoView)
 ### 动态权限申请 / Dynamic permission
