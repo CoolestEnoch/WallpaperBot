@@ -24,6 +24,10 @@
 - [ ] 图片浏览历史记录 / Picture history
 - [ ] ??? / IDK(lol)
 
+# 贡献者 / Contributors
+[![stats](https://i0.hdslb.com/bfs/face/91abd907a385ca9f1f2101551a7eeedb8eb7edec.jpg@240w_240h_1c_1s.webp)](https://space.bilibili.com/397538643 =460x)
+[不稳定少年__忻莳](https://space.bilibili.com/397538643)
+
 # 用到的开源项目 / Contributions
 ### 手势ImageView / Imageview with gestures
 [PhotoView](https://github.com/Baseflow/PhotoView)
