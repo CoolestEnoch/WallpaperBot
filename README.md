@@ -27,7 +27,7 @@
 # 贡献者 / Contributors 🧐
 [不稳定少年__忻莳](https://space.bilibili.com/397538643)
 
-# 用到的开源项目 / Contributions ✈️
+# 用到的开源项目 / Used libraries ✈️
 ### 手势ImageView / Imageview with gestures
 [PhotoView](https://github.com/Baseflow/PhotoView)
 ### 动态权限申请 / Dynamic permission
