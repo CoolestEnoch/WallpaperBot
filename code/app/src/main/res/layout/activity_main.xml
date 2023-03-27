@@ -5,7 +5,7 @@
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
 	android:orientation="vertical"
-    	android:background="@color/light_bg"
+	android:background="@color/light_bg"
 	tools:context=".ui.MainActivity">
 
 	<androidx.swiperefreshlayout.widget.SwipeRefreshLayout
@@ -17,7 +17,7 @@
 			android:layout_width="match_parent"
 			android:layout_height="match_parent">
 
-			<ImageView
+			<com.github.chrisbanes.photoview.PhotoView
 				android:id="@+id/mainImageView"
 				android:adjustViewBounds="true"
 				android:scaleType="fitCenter"
@@ -25,12 +25,12 @@
 				android:layout_height="match_parent" />
 
 			<TextView
-				android:id="@+id/firstPicLoadingTip"
+				android:id="@+id/picLoadingTip"
 				android:layout_width="match_parent"
 				android:layout_height="match_parent"
 				android:gravity="center"
-				android:textColor="@color/black_text"
 				android:text="图来啦..."
+				android:textColor="@color/black_text"
 				android:textSize="40dp"
 				android:textStyle="bold" />
 

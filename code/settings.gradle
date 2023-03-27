@@ -3,6 +3,7 @@ pluginManagement {
         gradlePluginPortal()
         google()
         mavenCentral()
+        maven { url "https://www.jitpack.io" }
     }
 }
 
@@ -12,6 +13,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         jcenter() // Warning: this repository is going to shut down soon
+        maven { url "https://www.jitpack.io" }
     }
 }
 rootProject.name = "壁纸bot"

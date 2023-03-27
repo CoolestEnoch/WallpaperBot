@@ -19,6 +19,7 @@
 - [x] 分享壁纸(应用，复制链接，二维码，扫一扫) / Share pictures (via applications, URL, QR code, Scan QR code)
 - [x] 选择壁纸来源渠道 / Select wallpaper source channel
 - [x] 动态配色主题(需安卓12以上) / Dynamic color theme (require Android 12+)
+- [x] [预测性返回手势(需安卓13以上)](https://developer.android.google.cn/guide/navigation/predictive-back-gesture?hl=zh-cn) / Predictive back animations (require Android 13+)
 
 # 未来待实现功能(咕咕咕) / Under development 🕊️
 - [ ] 图片浏览历史记录 / Picture history

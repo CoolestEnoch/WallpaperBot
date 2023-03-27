@@ -89,6 +89,12 @@ object ReleaseNotesUtil {
                             "[新增]图片放大等手势操作"
                 )
             )
+            add(
+                Version(
+                    2.72,
+                    "[适配]Android 13预测性返回手势"
+                )
+            )
         }
         Collections.reverse(noteList)
     }
