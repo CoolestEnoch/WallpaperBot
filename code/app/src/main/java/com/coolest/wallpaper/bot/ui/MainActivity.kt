@@ -110,6 +110,7 @@ class MainActivity : AppCompatActivity() {
 		"二次元2" to "1https://api.maho.cc/random-img/pc.php",
 		"二次元3(竖屏)" to "1https://api.maho.cc/random-img/mobile.php",
 		"二次元4(访问慢但高质量)" to "0https://pic.re/images",
+		"二次元5" to "1https://www.loliapi.com/acg",
 		"二次元风景" to "1https://api.ghser.com/random/bg.php",
 		"三次元" to "1http://api.btstu.cn/sjbz/?lx=meizi",
 		"三次元2" to "1http://api.btstu.cn/sjbz/?lx=m_meizi",

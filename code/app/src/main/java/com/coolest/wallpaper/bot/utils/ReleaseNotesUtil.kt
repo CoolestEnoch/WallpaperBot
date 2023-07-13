@@ -95,6 +95,13 @@ object ReleaseNotesUtil {
                     "[适配]Android 13预测性返回手势"
                 )
             )
+            add(
+                Version(
+                    2.73,
+                    "[新增]LoliAPI图库" + tab_and_new_line +
+                            "[优化]更新AGP至8.0.0"
+                )
+            )
         }
         Collections.reverse(noteList)
     }

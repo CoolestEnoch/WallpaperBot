@@ -11,7 +11,7 @@ android {
         minSdk 22
         targetSdk 33
         versionCode 1
-        versionName "2.72"
+        versionName "2.73"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -29,6 +29,7 @@ android {
     buildFeatures {
         viewBinding true
     }
+    namespace 'com.coolest.wallpaper.bot'
 }
 
 dependencies {
